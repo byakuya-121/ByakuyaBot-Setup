@@ -28,9 +28,3 @@ Deno および Engine スクリプトを自動同梱し、開発からインス�
 - **Inno Setup 6 / 7** (`ISCC.exe`)
 - **PowerShell 5.1 以上**
 
-### 自動ビルドの実行
-
-PowerShell でリポジトリ直下を開き、以下のスクリプトを実行します。
-
-```powershell
-.\build_release.ps1
